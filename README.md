@@ -12,4 +12,4 @@ Got a 1.5 Carat Diamond. Our model estimates it to 9374.96 USD
 
 ### Linear Regression from Carat, Color, Cut, Clarity -> Price
 
-Got a 1.5 Carat Diamond. Our model estimates it to 10146.38 USD
+Got a 1.5 Carat Diamond with ideal cut VS2 clarity and H color. Our model estimates it to 10146.38 USD
